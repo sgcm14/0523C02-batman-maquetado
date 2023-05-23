@@ -1,0 +1,49 @@
+body {
+  font-family: 'Times New Roman';
+}
+
+.fondo {
+  background-color: #E6E6E6;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 100px;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 84.69%;
+}
+
+h1,
+h2 {
+  background-color: #C4C4C4;
+  color: #005677;
+}
+
+li span {
+  font-style: italic;
+}
+
+
+p {
+  margin-left: 78px;
+}
+
+footer {
+  background-color: #005677;
+  text-align: center;
+  color: #FFFFFF;
+  font-weight: 700;
+  margin-top: 100px;
+}
+
+.mr {
+  margin-right: 10px;
+}
+
+
+
+.bold {
+  font-weight: bold;
+}
