@@ -9,7 +9,7 @@ Batman-maquetado
 --------------
  Como vimos en las clases anteriores, una de las principales tareas de un desarrollador Front End es estructurar interfaces a partir de un wireframe o una imagen. El desafío será reconocer las diferentes etiquetas que podrían conformar el maquetado y comenzar a estructurar un archivo hasta obtener un resultado visual similar a la referencia pero con tus datos personales. En esta clase se añadirán estilos CSS trabajados en la clase asincrónica que aportarán estilo a nuestra maqueta.
 
- ![](https://raw.githubusercontent.com/sgcm14/animaciones-css/main/referenciaAcrtividad.gif)
+ ![](https://raw.githubusercontent.com/sgcm14/batman-maquetado/main/dise%C3%B1o/desktop.png)
 > Pantalla de **Figma**
 
 
