@@ -1,0 +1,55 @@
+$color-gray-primary: #E6E6E6;
+$color-gray-second: #C4C4C4;
+$color-blue: #005677;
+$color-white: #FFFFFF;
+
+$my-font: 'Times New Roman';
+
+$weight-7: 700;
+
+body {
+  font-family: $my-font;
+}
+
+.fondo {
+  background-color: $color-gray-primary;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 100px;
+  font-weight: $weight-7;
+  font-size: 35px;
+  line-height: 84.69%;
+}
+
+h1,
+h2 {
+  background-color: $color-gray-second;
+  color: $color-blue;
+}
+
+li span {
+  font-style: italic;
+}
+
+p {
+  margin-left: 78px;
+}
+
+footer {
+  background-color: $color-blue;
+  text-align: center;
+  color: $color-white;
+  font-weight: $weight-7;
+  margin-top: 100px;
+}
+
+.mr {
+  margin-right: 10px;
+}
+
+.bold {
+  font-weight: bold;
+}
