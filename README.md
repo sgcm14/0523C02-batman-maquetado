@@ -21,6 +21,7 @@ Utilizando el siguiente figma de referencia, los pasos para realizar la tarea se
 2. crear la estructura de carpetas necesaria;
 3. trasladar la idea a una maqueta utilizando etiquetas HTML; 
 4. aplicar estilos CSS para mejorar la estética del trabajo.
+5. En esta oportunidad tomando de guía el trabajo CV-Batman, crearemos esos estilos nuevamente utilizando el preprocesador Sass, visto en esta clase. Tené en cuenta renombrar tu CSS anterior para no  perderlo.
 
 
 **Realizado por :** Sammy Gigi Cantoral Montejo (sgcm14)
