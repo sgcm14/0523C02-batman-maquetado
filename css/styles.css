@@ -1,5 +1,5 @@
 body {
-  font-family: 'Times New Roman';
+  font-family: "Times New Roman";
 }
 
 .fondo {
@@ -25,7 +25,6 @@ li span {
   font-style: italic;
 }
 
-
 p {
   margin-left: 78px;
 }
@@ -42,8 +41,6 @@ footer {
   margin-right: 10px;
 }
 
-
-
 .bold {
   font-weight: bold;
-}
+}/*# sourceMappingURL=styles.css.map */
